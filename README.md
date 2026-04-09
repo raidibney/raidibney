@@ -10,41 +10,64 @@
 
 ---
 
-### 🚀 About Me
-I am a dedicated **Computer Science & Engineering** student at **American International University-Bangladesh (AIUB)**. My passion lies in crafting premium web experiences with a focus on clean code and elegant design.
+# 💫 About Me
 
-- 🔭 I’m currently working on **CowKino**, a modern livestock trading platform.
-- 🌱 Learning the depths of **Node.js** and **.NET Core** to bridge the gap to full-stack.
-- 💬 Ask me about **React**, **Tailwind CSS**, or **Public Speaking**.
-- ⚡ Fun fact: I'm an active member of the AIUB Oratory Club!
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend & Design**
-![React](https://img.shields.io/badge/react-%23202322.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![DaisyUI](https://img.shields.io/badge/daisyui-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=white)
-
-**Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi%20I'm%20Tanvir&fontSize=70&animation=fadeIn" />
+</p>
+
+### 🚀 Aspiring Full-Stack Engineer | Frontend Specialist
+I am a **Computer Science & Engineering** undergraduate at **AIUB**, majoring in **Software Engineering**. I thrive at the intersection of logic and design, currently mastering the art of building scalable, user-centric web applications.
+
+- 🎓 **Education**: B.Sc in CSE at American International University-Bangladesh (AIUB)
+- 💻 **Current Focus**: Transitioning from Frontend to Full-Stack Mastery
+- ⚡ **Fun Fact**: I love blending utility-first CSS with elegant UI components to create seamless digital experiences.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### 🌐 Web Development Specialties
+- **Frontend**: `HTML5` | `CSS3` | `Tailwind CSS` | `DaisyUI` | `React` | `React Router`
+- **Backend & DB**: `NestJS` | `MongoDB` | `MySQL`
+- **Architectures**: MVC | RESTful APIs | Digital Workflow Platforms
+
+---
+
+### 📊 Performance & Growth
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📸 Beyond Coding
-When I'm not behind a screen, you'll find me:
-* **Debating:** Competing in national circuits and refining my public speaking.
-* **Photography:** Capturing moments and exploring digital art.
-* **Traveling:** Exploring new perspectives.
+### 🔥 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true)
+
+---
+
+### 🤝 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanvir" height="30" width="40" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Tanvir" height="30" width="40" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>Keep Building. 🚀</b>
+</p>
