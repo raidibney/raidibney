@@ -12,9 +12,7 @@
 
 # 💫 About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi%20I'm%20Tanvir&fontSize=70&animation=fadeIn" />
-</p>
+
 
 ### 🚀 Aspiring Full-Stack Engineer | Frontend Specialist
 I am a **Computer Science & Engineering** undergraduate at **AIUB**, majoring in **Software Engineering**. I thrive at the intersection of logic and design, currently mastering the art of building scalable, user-centric web applications.
@@ -54,17 +52,29 @@ I am a **Computer Science & Engineering** undergraduate at **AIUB**, majoring in
 
 ---
 
-### 🔥 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true)
 
 ---
 
 ### 🤝 Let's Connect
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanvir" height="30" width="40" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Tanvir" height="30" width="40" /></a>
-</p>
+### 🤝 Connect with Me
 
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 <br />
 
 <p align="center">
