@@ -1,7 +1,7 @@
 # Hi there, I'm Raid Ibney Hasan Arnob! 👋
 
 <p align="center">
-  <img src="YOUR_URL_TO_THE_BANNER_IMAGE_GOES_HERE" alt="Raid Ibney Hasan Arnob - CSE Student & Web Developer" width="100%" />
+  <img src="banner.jpg" alt="Raid Ibney Hasan Arnob - CSE Student & Web Developer" width="100%" />
 </p>
 
 <p align="center">
